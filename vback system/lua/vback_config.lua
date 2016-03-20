@@ -1,7 +1,7 @@
 vback = {}
 vback["prefix"] = "[VBack] "
 vback["port"] = false
-vback["ip"] = { "192.168.0.5" }
+vback["ip"] = { "0.0.0.0" }
 vback["kick"] = true
 vback["bantime"] = 1440
 vback["group"] = "owner"
